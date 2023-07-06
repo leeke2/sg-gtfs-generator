@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>BusRoutes</name>
+        <description></description>
+        <Style id="busroute">
+            <LineStyle>
+                <color>9aB10FDA</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name></name>
+            <description></description>
+            <styleUrl>#busroute</styleUrl>
+            <LineString>
+                <coordinates>103.7861946,1.4366738 103.7865379,1.4367991 103.7866782,1.4367441 103.7867971,1.4367656 103.7873843,1.436981 103.7874152,1.4370264 103.7874025,1.4370946 103.7872646,1.4374512 103.787141,1.4377549 103.7878458,1.4380099 103.7883468,1.4381974 103.7884786,1.4382681 103.7885875,1.438374 103.7886747,1.4386781 103.7882208,1.4392016 103.7881135,1.4393035 103.7878207,1.4395019 103.7871237,1.439901 103.7859375,1.4405801 103.7854381,1.4408659 103.785181,1.4410493 103.7850524,1.4411409 103.7851602,1.4412769 103.7853579,1.4415264 103.7856168,1.4418328 103.7858586,1.442042 103.7860596,1.4421778</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,5 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+GAS,Go Ahead Singapore,https://go-aheadsingapore.com/,Asia/Singapore,en-SG,1800-812-6469,,
+SBST,SBS Transit,https://www.sbstransit.com.sg/,Asia/Singapore,en-SG,1800-287-2727,,
+SMRT,SMRT Corporation,https://www.smrt.com.sg/,Asia/Singapore,en-SG,1800-336-8900,,
+TTS,Tower Transit Singapore,https://towertransit.sg/,Asia/Singapore,en-SG,1800-248-0950,,
